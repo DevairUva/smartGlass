@@ -5,5 +5,25 @@ footer{
 header{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;   
+    justify-content: space-around;
+}
+
+header a{
+    text-decoration: none;
+    color: yellow;
+}
+
+body{
+    background-image: url(/img/background.png);
+    color: white;
+    background-size: cover;
+}
+
+.oculos{
+    text-align: center;
+}
+
+.oculos img{
+    width: 1000px;
+    height: 500px;
 }
