@@ -7,16 +7,40 @@ footer a{
     color: #ffbb56;
 }
 
+footer a:hover{
+    color: white;
+}
+
 header{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
     font-size: 25px;
+    height: 60px;
 }
 
 header a{
     text-decoration: none;
     color: #ffbb56;
+}
+
+header a:hover{
+    color: white;
+}
+
+#logo{
+    height: 170px;
+}
+
+.itens_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 150px;
+    margin-top: -68px;
+}
+
+.links{
+    margin-top: 35px;
+    display: flex;
+    justify-content: flex-start;
 }
 
 body{
@@ -28,21 +52,22 @@ body{
 .foto_inicio{
     background-image: url(/img/xiaomi-smart-glass.png);
     background-size: cover;
-    width: 1500px;
+    width: 1450px;
     height: 800px;
     display: flex;
     align-items: center;
+    margin-left: -8px;
 }
 
 #p_1{
     font-size: 90px;
-    margin-left: 30px;
+    margin-left: 40px;
     margin-bottom: 35px;
 }
 
 #p_2{
     font-size: 60px;
-    margin-left: 30px;
+    margin-left: 40px;
     margin-top: -50px;
 }
 
@@ -59,8 +84,8 @@ body{
 
 #hc{
     border-radius: 120px;
-    width: 400px;
-    height: 400px;
+    width: 360px;
+    height: 360px;
 }
 
 
