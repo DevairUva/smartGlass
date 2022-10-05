@@ -79,3 +79,34 @@ body{
     height: 500px;
 }
 
+#h1_equipe{
+color: #ffbb56;
+text-align: center;
+padding: 20px;
+} 
+
+.foto_equipe{
+    width: 180px;
+    border-radius: 90%;
+    border: 6px solid #ffbb56;
+    }
+    
+    .equipe{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        
+    }
+
+    .colunas{
+        display: flex;
+        flex-direction: column;
+       /* border: solid 10px; */
+       margin: 30px;
+       background-color: white;
+       
+    }
+    .item_coluna{
+        width: 240px;
+        text-align: center;  
+    }
