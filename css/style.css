@@ -2,15 +2,21 @@ footer{
     text-align: center;
 }
 
+footer a{
+    text-decoration: none;
+    color: #ffbb56;
+}
+
 header{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    font-size: 25px;
 }
 
 header a{
     text-decoration: none;
-    color: yellow;
+    color: #ffbb56;
 }
 
 body{
@@ -18,6 +24,51 @@ body{
     color: white;
     background-size: cover;
 }
+
+.foto_inicio{
+    background-image: url(/img/xiaomi-smart-glass.png);
+    background-size: cover;
+    width: 1500px;
+    height: 800px;
+    display: flex;
+    align-items: center;
+}
+
+#p_1{
+    font-size: 90px;
+    margin-left: 30px;
+    margin-bottom: 35px;
+}
+
+#p_2{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: -50px;
+}
+
+.txt_home{
+    font-size: 21px;
+    text-align: center;
+    width: 900px;
+    margin-left: 300px;
+}
+
+.crut{
+    text-align: center;
+}
+
+#hc{
+    border-radius: 120px;
+    width: 400px;
+    height: 400px;
+}
+
+
+
+
+
+
+
 
 .oculos{
     text-align: center;
@@ -27,3 +78,4 @@ body{
     width: 1000px;
     height: 500px;
 }
+
