@@ -79,6 +79,8 @@ body{
     height: 500px;
 }
 
+/* Inicio quem somos */
+
 #h1_equipe{
 color: #ffbb56;
 text-align: center;
@@ -110,3 +112,5 @@ padding: 20px;
         width: 240px;
         text-align: center;  
     }
+
+    /* Fim quem somos */
