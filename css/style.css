@@ -156,24 +156,21 @@ body{
 
 /* inicio catálogo */
 
-#h1_equipe {
+#h1_equipe2 {
     color: #ffbb56;
     text-align: center;
     padding: 20px;
 }
 
-.foto_equipe {
+.foto_equipe2 {
     width: 180px;
-    border-radius: 90%;
-    border: 6px solid black;
     margin-top: 15px;
 }
 
-.equipe {
+.equipe2 {
     display: flex;
     flex-direction: row;
     justify-content: center;
-
 }
 
 .colunas2 {
@@ -181,23 +178,26 @@ body{
     flex-direction: column;
     /* border: solid 10px; */
     margin: 10px;
-    background-color: #615f5f;
+    background-color: #ffbb56;
     color: black;
-    border-radius: 20px;
-
+    border-radius: 10px;
 }
 
-.item_coluna {
+.item_coluna2 {
     width: 240px;
     text-align: center;
 }
 
-.logos_sociais {
+.logos_sociais2 {
     display: inline;
     width: 18px;
     padding-bottom: 20px;
 }
 
+#pokemon{
+    height: 110px;
+    border: 3px solid black;
+}
 
 /* fim do catálogo */
 
