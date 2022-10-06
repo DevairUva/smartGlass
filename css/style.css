@@ -48,6 +48,8 @@ header a:hover{
 
 body{
     background-image: url(/img/background.png);
+    /* background-image: linear-gradient(rgb(0, 0, 0), #1443a9, rgb(0, 0, 0)); */
+
     color: white;
     background-size: cover;
 }
@@ -93,11 +95,6 @@ body{
 
 
 
-
-
-
-
-
 .oculos{
     text-align: center;
 }
@@ -107,41 +104,53 @@ body{
     height: 500px;
 }
 
-/* Inicio quem somos */
 
-#h1_equipe{
-color: #ffbb56;
-text-align: center;
-padding: 20px;
-} 
 
-.foto_equipe{
+/* Inicio nossa equipe */
+
+#h1_equipe {
+    color: #ffbb56;
+    text-align: center;
+    padding: 20px;
+}
+
+.foto_equipe {
     width: 180px;
     border-radius: 90%;
-    border: 6px solid #ffbb56;
-    }
-    
-.equipe{
+    border: 6px solid black;
+    margin-top: 15px;
+}
+
+.equipe {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    
+
 }
 
-.colunas{
+.colunas {
     display: flex;
     flex-direction: column;
     /* border: solid 10px; */
-    margin: 30px;
-    background-color: white;
-    
-}
-.item_coluna{
-    width: 240px;
-    text-align: center;  
+    margin: 10px;
+    background-color: #FFBD59;
+    color: black;
+    border-radius: 20px;
+
 }
 
-/* Fim quem somos */
+.item_coluna {
+    width: 240px;
+    text-align: center;
+}
+
+.logos_sociais {
+    display: inline;
+    width: 18px;
+    padding-bottom: 20px;
+}
+
+/* Fim nossa equipe */
 
 /* ****** formulário ****** */
 
