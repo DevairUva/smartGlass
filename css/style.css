@@ -109,9 +109,22 @@ body{
 /* Inicio nossa equipe */
 
 #h1_equipe {
-    color: #ffbb56;
+    color: rgba(255, 255, 255, 0.774);
     text-align: center;
-    padding: 20px;
+    text-shadow: 1px 1px #1A569D;
+    padding-top: 40px;
+    font-size: 65px;
+    }
+
+.equipe {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.equipe :hover{
+    background-color: #4F86FF;
 }
 
 .foto_equipe {
@@ -121,27 +134,21 @@ body{
     margin-top: 15px;
 }
 
-.equipe {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-
-}
-
 .colunas {
     display: flex;
     flex-direction: column;
-    /* border: solid 10px; */
     margin: 10px;
-    background-color: #FFBD59;
+    background-color: #ffbb56;
     color: black;
     border-radius: 20px;
+    box-shadow: 4px 4px #888888;
 
 }
 
 .item_coluna {
     width: 240px;
     text-align: center;
+    border-radius: 20px;
 }
 
 .logos_sociais {
