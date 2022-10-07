@@ -8,6 +8,6 @@ function Enviar(){
 
     if(nome.value != "" && sobrenome.value != "" && email.value != "" && numero.value != "" && senha.value != ""
      && confirmacao.value != ""){
-        alert("Tudo certo, "+nome.value+", recebemos os seus dados!")
+        alert("Tudo certo, "+nome.value+" "+sobrenome.value+", recebemos os seus dados e seu pedido foi salvo.")
     }
 }
