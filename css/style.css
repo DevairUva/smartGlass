@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 footer{
     height: 100px;
     display: flex;
@@ -109,11 +116,11 @@ body{
 /* Inicio nossa equipe */
 
 #h1_equipe {
-    color: rgba(255, 255, 255, 0.774);
+    color: white;
     text-align: center;
-    text-shadow: 1px 1px #1A569D;
+    text-shadow: 1px 1px #4F86FF;
     padding-top: 40px;
-    font-size: 65px;
+    font-size: 55px;
     }
 
 .equipe {
