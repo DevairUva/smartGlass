@@ -18,7 +18,7 @@ Contendo linguagens de HTML, CSS e Java Script o site tem todas as informações
 * Atualização dos links pessoais de cada desenvolvedor
 
 ## :handshake: Colaboradores
-🧑‍💻Ana Clara | 🧑‍💻Devair Martins | 🧑‍💻Isabela Alves | 🧑‍💻Orlando Jr | 🧑‍💻Thiago Maximo
+🧑‍💻<a href="https://www.linkedin.com/in/ana-clara-matias-02068b200/">Ana Clara</a> | 🧑‍💻 <a href="https://github.com/DevairUva">Devair Martins</a> | 🧑‍💻<a href="https://github.com/isabelaalvesc">Isabela Alves</a> | 🧑‍💻<a href="https://github.com/Orl-andoJr">Orlando Jr</a> | 🧑‍💻<a href="https://github.com/Thiagomaximo94">Thiago Maximo</a>
 
 ## :dart: Status do projeto
 Em desenvolvimento.
