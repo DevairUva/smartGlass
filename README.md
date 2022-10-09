@@ -5,7 +5,7 @@ Uma empresa de óculos futurista com um site de informação e vendas de produto
 Contendo linguagens de HTML, CSS e Java Script o site tem todas as informações para você se interessar pela nossa empresa contendo a história, modelos de óculos (fictícios), colaboradores do projeto e formulário para contato e validação de dados.
 
 ## :books: Funcionalidades do produto
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+<img src=" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
 
 ## :wrench: Tecnologias utilizadas
 * Tecnologia;
